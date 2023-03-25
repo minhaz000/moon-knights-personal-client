@@ -1,0 +1,164 @@
+[
+    {
+        "service_id": "01",
+        "title" : "New Tires & Tire Repair",
+        "img" : "https://i.ibb.co/wYdbNTt/1.jpg",
+        "price" : "20.00",
+        "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic nemo doloribus obcaecati, dolorem maiores error voluptates praesentium nesciunt molestias quos dignissimos ducimus ad esse cum suscipit eaque nisi explicabo laborum placeat. Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat! Optio, at? Quidem voluptatum rem esse officia, eaque inventore, ea, fugit quo veniam unde aliquid saepe asperiores aperiam itaque obcaecati blanditiis nostrum reiciendis minus. ",
+        "facility" : [
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            },
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            },
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            },
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            }
+
+        ]
+
+    },
+    {
+        "service_id": "02",
+        "title" : "Brakes & Brake Repair",
+        "img" : "https://i.ibb.co/9ZfRD7y/2.jpg",
+        "price" : "20.00",
+        "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic nemo doloribus obcaecati, dolorem maiores error voluptates praesentium nesciunt molestias quos dignissimos ducimus ad esse cum suscipit eaque nisi explicabo laborum placeat. Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat! Optio, at? Quidem voluptatum rem esse officia, eaque inventore, ea, fugit quo veniam unde aliquid saepe asperiores aperiam itaque obcaecati blanditiis nostrum reiciendis minus. ",
+        "facility" : [
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            },
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            },
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            },
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            }
+
+        ]
+
+    },
+    {
+        "service_id": "03",
+        "title" : "Oil Change",
+        "img" : "https://i.ibb.co/VT1C21H/3.jpg",
+        "price" : "20.00",
+        "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic nemo doloribus obcaecati, dolorem maiores error voluptates praesentium nesciunt molestias quos dignissimos ducimus ad esse cum suscipit eaque nisi explicabo laborum placeat. Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat! Optio, at? Quidem voluptatum rem esse officia, eaque inventore, ea, fugit quo veniam unde aliquid saepe asperiores aperiam itaque obcaecati blanditiis nostrum reiciendis minus. ",
+        "facility" : [
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            },
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            },
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            },
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            }
+
+        ]
+
+    },
+    {
+        "service_id": "04",
+        "title" : "Exhaust System Services",
+        "img" : "https://i.ibb.co/H2RLKdD/4.jpg",
+        "price" : "20.00",
+        "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic nemo doloribus obcaecati, dolorem maiores error voluptates praesentium nesciunt molestias quos dignissimos ducimus ad esse cum suscipit eaque nisi explicabo laborum placeat. Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat! Optio, at? Quidem voluptatum rem esse officia, eaque inventore, ea, fugit quo veniam unde aliquid saepe asperiores aperiam itaque obcaecati blanditiis nostrum reiciendis minus. ",
+        "facility" : [
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            },
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            },
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            },
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            }
+
+        ]
+
+    },
+    {
+        "service_id": "05",
+        "title" : "Lights & Accessories",
+        "img" : "https://i.ibb.co/cJM8hyv/5.jpg",
+        "price" : "20.00",
+        "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic nemo doloribus obcaecati, dolorem maiores error voluptates praesentium nesciunt molestias quos dignissimos ducimus ad esse cum suscipit eaque nisi explicabo laborum placeat. Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat! Optio, at? Quidem voluptatum rem esse officia, eaque inventore, ea, fugit quo veniam unde aliquid saepe asperiores aperiam itaque obcaecati blanditiis nostrum reiciendis minus. ",
+        "facility" : [
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            },
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            },
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            },
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            }
+
+        ]
+
+    },
+    {
+        "service_id": "06",
+        "title" : "Maintenance Package",
+        "img" : "https://i.ibb.co/Bz40fb7/6.jpg",
+        "price" : "20.00",
+        "description" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Hic nemo doloribus obcaecati, dolorem maiores error voluptates praesentium nesciunt molestias quos dignissimos ducimus ad esse cum suscipit eaque nisi explicabo laborum placeat. Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat! Optio, at? Quidem voluptatum rem esse officia, eaque inventore, ea, fugit quo veniam unde aliquid saepe asperiores aperiam itaque obcaecati blanditiis nostrum reiciendis minus. ",
+        "facility" : [
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            },
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            },
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            },
+            {
+                "name" : "Instant Car Service",
+                "details" : "Nisi autem dolor tempora, iure natus nobis ratione odit hic aliquid. Ad, aliquam et est esse sed maiores, culpa quae necessitatibus odio rerum veritatis nemo blanditiis totam quidem nobis quos laborum molestiae eius optio excepturi repellat!"
+            }
+
+        ]
+
+    }
+]
